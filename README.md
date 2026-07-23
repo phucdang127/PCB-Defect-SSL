@@ -1,4 +1,4 @@
-# PCB Assembly Defect Detection Using Supervised and Semi-Supervised Learning
+# End-to-End Automated Defect Detection for PCB Assemblies: Optical System Enhancements and Deep Learning from Supervised to Semi-Supervised
 
 This repository provides representative datasets and source code accompanying our research on PCB assembly defect detection using supervised and semi-supervised object detection methods.
 
